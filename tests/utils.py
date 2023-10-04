@@ -37,3 +37,4 @@ def check_default_var_exists(scope: ModuleType, var_name: str) -> None:
         f'{var_name} должна быть переменной, а не функцией.'
     )
 
+
